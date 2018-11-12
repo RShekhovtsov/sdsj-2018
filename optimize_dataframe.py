@@ -52,4 +52,4 @@ def optimize_dataframe(df):
     new_size = sys.getsizeof(df_opt)
     print('optimize dataframe ({} to {}, ratio: {})'.format(old_size, new_size, round(old_size/new_size, 2)))
 
-    return df
+    return df_opt
