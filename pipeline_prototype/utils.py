@@ -97,7 +97,7 @@ def optimize_dataframe(df):
     new_size = sys.getsizeof(df_opt)
     log('optimize dataframe ({} to {}, ratio: {})'.format(old_size, new_size, round(old_size/new_size, 2)))
 
-    return df
+    return df_opt
 
 
 def neg_mean_squared_error(y_true, y_pred):
