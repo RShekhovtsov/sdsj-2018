@@ -1,8 +1,8 @@
 # <a href=https://sdsj.sberbank.ai/ru/contest>Sbebank Data Science Journey - 2018</a>
 
-1. Cool function to optimize pandas.DataFrame size (2-6 times in average):
+1. Cool function to optimize pandas.DataFrame size (2-6 times average):
 <a href=https://github.com/rshekhovtsov/sdsj-2018/blob/master/optimize_dataframe.py>optimize_dataframe.py</a><br> 
-Inspired by <a href=https://www.dataquest.io/blog/author/josh>Josh Devlin's</a> article <a href=https://dataquest.io/blog/pandas-big-data>Using pandas with large data</a>
+Inspired by <a href=https://www.dataquest.io/blog/author/josh>Josh Devlin's</a> article <a href=https://dataquest.io/blog/pandas-big-data>Using pandas with large data</a>.
 
 2. 8-th place final submissions:
     - <a href=https://github.com/rshekhovtsov/sdsj-2018/tree/master/pipeline_prototype>pipeline_prototype</a> - general purpose AutoML pipeline prototype.
