@@ -9,4 +9,4 @@ Inspired by <a href=https://www.dataquest.io/blog/author/josh>Josh Devlin's</a> 
     - <a href=https://github.com/rshekhovtsov/sdsj-2018/tree/master/tyz910_based>tyz910_based</a> - based on <a href=https://github.com/tyz910>Evgeniy Ivanov's</a> public baseline https://github.com/tyz910/sdsj2018.
     <br>I've added Russian holidays from <a href=https://github.com/nd7141>nd7141</a> (https://github.com/nd7141/sberbank-catboost) and tuned hyperparameters space. Good score on public data, average on private.
 
-3. Presentation (in Russian) from SDSJ-2018 conference.
+3. My presentation (in Russian) from SDSJ-2018 conference.
